@@ -7,3 +7,4 @@
 - Implemented data visualisations with MatPlotlib, to examine the direct relationship between VIX and S&P500 from 2017 to 2021. 
 - Developed a matrix correlation table using SeaBorn, to evaluate assets performance from a recommended investment portfolio.
 
+![](/images/plot_precios.png)
